@@ -1,0 +1,53 @@
+{
+  "products": [
+    {
+      "id": "6c14",
+      "addName": "Iphone 15 pro",
+      "addDescription": "Heats early",
+      "addPrice": "3500",
+      "addImage": "https://cdsassets.apple.com/live/7WUAS350/images/tech-specs/iphone-15-pro-max.png"
+    },
+    {
+      "id": "2600",
+      "addName": "Xiomi redmi note 13",
+      "addDescription": "Memory 13GB",
+      "addPrice": "600",
+      "addImage": "https://bsimg.nl/images/xiaomi-redmi-note-13-4g-8gb-256gb-blauw_1.png/8Q1jadxmq_6VnGYqmPXZO73ZARg%3D/fit-in/257x400/filters%3Aformat%28png%29%3Aupscale%28%29"
+    },
+    {
+      "id": "0b3e",
+      "addName": "Memory 128GB",
+      "addDescription": "Strong phone",
+      "addPrice": "1500",
+      "addImage": "https://i01.appmifile.com/webfile/globalimg/products/m/redmi-note-7-pro/head_bg22.jpg"
+    },
+    {
+      "id": "f61a",
+      "addName": "Acer Nitro 5",
+      "addDescription": "Acer Model Nitro 5 AN515-55-53G",
+      "addPrice": "6000",
+      "addImage": "https://kontakt.az/media/catalog/product/cache/a404967cc40694dc557cd869288440a4/1/-/1-1-2_png.png"
+    },
+    {
+      "id": "031f",
+      "addName": "MacBook Air M1",
+      "addDescription": "APPLE MacBook Air 13\" (2020) A2337 Space Gray",
+      "addPrice": "8500",
+      "addImage": "https://assets-prd.ignimgs.com/2021/01/27/m1-macbook-air-4-1611791801127.jpeg"
+    },
+    {
+      "id": "1f76",
+      "addName": "Iphone 16 pro",
+      "addDescription": " Processor Apple A18 Pro 6-core, RAM 8 GB, internal memory 128 GB",
+      "addPrice": "4000",
+      "addImage": "https://ss7.vzw.com/is/image/VerizonWireless/apple-iphone-16-pro-max-desert-titanium-b?wid=465&hei=465&fmt=webp"
+    },
+    {
+      "id": "2caf",
+      "addName": "Logitech G29 Driving Force",
+      "addDescription": "Steering Wheel - with pedals, feedback, degree of rotation 900 °, 14 buttons, 3 pedals",
+      "addPrice": "1500",
+      "addImage": "https://image.alza.cz/products/MH299h1/MH299h1.jpg?width=1400&height=1400"
+    }
+  ]
+}
